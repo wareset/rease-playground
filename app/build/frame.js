@@ -1,0 +1,1 @@
+System.register(["./2bac1ee8.js"],(function(){"use strict";var e;return{setters:[function(o){e=o.r}],execute:function(){console.log("srcdoc"),window.rease=e,console.log(e)}}}));

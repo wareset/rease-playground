@@ -1,0 +1,1 @@
+System.register(["./2bac1ee8.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.L}],execute:function(){window.addEventListener("load",(()=>{t.import("./e893e00d.js").then((e=>{n(e.default,{target:document.body,onInitial:()=>{console.time("ReaseApp")},onCreated:()=>{console.timeEnd("ReaseApp")}})}))}))}}}));
